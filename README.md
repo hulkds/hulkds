@@ -13,6 +13,7 @@
 
 #### 🚴 My Cousera certificates:
 - [Deep Learning Specialization (5 courses)](https://coursera.org/share/f280a2718c84104235a24f276b468db0)
+- [MLOps Tools: MLflow and Hugging Face](https://www.coursera.org/account/accomplishments/verify/NJWKEEQSFZFT)
 - [Introduction to Machine Learning in Production](https://coursera.org/share/db57de985a024f32c203fa9dc40012a0)
 - [Machine Learning Data Lifecycle in Production](https://coursera.org/share/6975596668f81a97808b522299d98b83)
 
